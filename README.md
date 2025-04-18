@@ -1,4 +1,4 @@
-# Turkey Postal Code Scraper
+# Turkiye Postal Code Scraper
 
 Bu proje, Türkiye'deki iller, ilçeler ve mahalleler hakkında veri toplayan bir web kazıyıcısı (web scraper) içerir. Proje, PTT'nin posta kodu sorgulama sitesinden iller, ilçeler ve mahalleler hakkında bilgiler toplar ve bu verileri CSV dosyalarına kaydeder.
 
